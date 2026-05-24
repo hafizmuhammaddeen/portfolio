@@ -1,0 +1,18 @@
+# Portfolio Website — External Dependencies
+# (All loaded via CDN — no npm install needed)
+
+# Fonts (Google Fonts CDN)
+Poppins - https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900
+Space Grotesk - https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700
+
+# Icons (Font Awesome 6 CDN)
+Font Awesome 6.5.0 - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+
+# Form Backend (Third-party service)
+Formspree - https://formspree.io
+  → Free plan: 50 submissions/month
+  → Setup: Create account, get form ID, paste in index.html
+
+# No Node.js, npm, pip, or build tools required.
+# Pure HTML + CSS + Vanilla JS — works directly in browser.
+# Deploy to GitHub Pages for free hosting.
